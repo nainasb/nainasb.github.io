@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/Naina%20CV%202024.pdf/
 title: cv
 nav: true
 nav_order: 4
