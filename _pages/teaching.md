@@ -9,7 +9,9 @@ nav_order: 3
 
 
 **Instructor**: CS 173 Discrete Structures
+
 _University of Illinois Urbana-Champaign_
+
 June 2024 - Aug 2024
 
 **Head TA**: CS 173 Discrete Structures
