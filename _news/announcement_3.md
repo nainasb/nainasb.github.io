@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded the [Lifetime Teaching Assistant Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/illinois-computer-science-outstanding-teaching-assistant)!
+I was [awarded](../assets/pdf/Naina_CV_2024.pdf) the [Lifetime Teaching Assistant Award](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/illinois-computer-science-outstanding-teaching-assistant)!
