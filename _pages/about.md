@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: Ph.D. Candidate in Computer Science at the University of Illinois Urbana-Champaign
 
