@@ -22,4 +22,6 @@ Currently, I'm working on two research tracks:
 1. Modeling community and institutional trust, and designing interventions to increase that trust.
 2. Understanding incentives for people to participate in systems that might save them money, or otherwise increase their well-being.
 
-See my CV [here](../assets/pdf/Naina_CV_2024.pdf)!
+You can find my CV [here](../assets/pdf/Naina_CV_2024.pdf)!
+
+And if you're confused, maybe you're looking for my [brother](https://nbalepur.github.io) :grin:
