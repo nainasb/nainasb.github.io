@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper was accepted to [ACM FAccT25](https://facctconference.org/2025/)!
+[Our paper](https://dl.acm.org/doi/full/10.1145/3715275.3732076) was accepted to [ACM FAccT25](https://facctconference.org/2025/)!
