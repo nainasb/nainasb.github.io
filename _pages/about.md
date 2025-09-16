@@ -15,12 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a 5th year Ph.D. candidate in Computer Science at the University of Illinois Urbana-Champaign, where I'm advised by professor [Hari Sundaram](https://sundaram.cs.illinois.edu). I do work at the intersection of social network analysis and game theory, and my focus is on understanding human decision-making via modeling and simulation as well as qualitative methods. 
+Hi! I'm a 6th year Ph.D. candidate in Computer Science at the University of Illinois Urbana-Champaign, where I'm advised by professor [Hari Sundaram](https://sundaram.cs.illinois.edu). I work at the intersection of social network analysis and game theory, and focus on understanding human decision-making via modeling and simulation. I've spent the last semester interviewing local community members to contextualize my models, so they can be useful tools for organizations in Champaign.
 
-Currently, I'm working on two research tracks: 
+My work largely falls into two categories:
 
-1. Modeling community and institutional trust, and designing interventions to increase that trust.
-2. Understanding incentives for people to participate in systems that might save them money, or otherwise increase their well-being.
+1. Modeling trust between communities and large institutions, and designing interventions to increase that trust.
+2. Designing fairness-promoting systems that users are incentivized to participate in.
 
 You can find my CV [here](../assets/pdf/Naina_CV_2024.pdf)!
 
