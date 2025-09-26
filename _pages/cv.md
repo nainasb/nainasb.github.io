@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
-nav_order: 3
+nav: true
+nav_order: 2
 cv_pdf: Naina_CV_2024.pdf
 description: 
 toc:
