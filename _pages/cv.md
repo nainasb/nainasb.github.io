@@ -1,11 +1,8 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: Naina_CV_2024.pdf
-description: 
-toc:
-  sidebar: left
+redirect_to: /assets/Naina_CV_2024.pdf
 ---
