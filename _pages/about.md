@@ -22,4 +22,6 @@ My work largely falls into two categories:
 1. Modeling trust between communities and large institutions, and designing interventions to increase that trust.
 2. Designing fairness-promoting systems that users are incentivized to participate in.
 
+I'm currently on the job market looking for Teaching Faculty positions! You can find my teaching record in my [CV](../assets/pdf/Naina_CV_2024.pdf), and feel free to contact me for additional teaching materials.
+
 And if you're confused, maybe you're looking for my [brother](https://nbalepur.github.io) :grin:
