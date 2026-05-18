@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: Ph.D. Candidate in Computer Science at the University of Illinois Urbana-Champaign
+subtitle: Incoming Assistant Instructional Professor of Data Science at the University of Chicago
 
 profile:
   align: right
@@ -15,13 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a 6th year Ph.D. candidate in Computer Science at the University of Illinois Urbana-Champaign, where I'm advised by professor [Hari Sundaram](https://sundaram.cs.illinois.edu). I work at the intersection of social network analysis and game theory, and focus on understanding human decision-making via modeling and simulation. I've spent the last semester interviewing local community members to contextualize my models, so they can be useful tools for organizations in Champaign.
+Hi! I just completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, where I was advised by professor [Hari Sundaram](https://sundaram.cs.illinois.edu). In September, I'll be joining the [Data Science Institute](https://datascience.uchicago.edu) at the University of Chicago as an Assistant Instructional Professor. I'm committed to inclusive and transparent teaching, and will be teaching in the areas of Introduction to Data Science, Data Visualization, and Software Engineering.
 
-My work largely falls into two categories:
+My Ph.D. work was at the intersection of social network analysis and game theory, with a focus on understanding human decision-making through modeling and simulation. I spent the last year of my Ph.D. interviewing local community members to develop a contextualized model of institutional trust. My research falls into two areas:
 
 1. Modeling trust between communities and large institutions, and designing interventions to increase that trust.
 2. Designing fairness-promoting systems that users are incentivized to participate in.
-
-I'm currently on the job market looking for Teaching Faculty positions! You can find my teaching record in my [CV](../assets/pdf/Naina_CV_2024.pdf), and feel free to contact me for additional teaching materials.
 
 And if you're confused, maybe you're looking for my [brother](https://nbalepur.github.io) :grin:
