@@ -8,7 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: 257C Ryerson Laboratory 
+  more_info: >
+    <p style="text-align: center;"> 257C Ryerson Laboratory </p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
